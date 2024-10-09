@@ -1,1 +1,1 @@
-# EDA-of-Unicorn-companies
+# EDA-Structuring-of-Unicorn-companies
